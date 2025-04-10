@@ -1,4 +1,10 @@
-@font-face {
-    font-family: 'Japan';
-    src: url(Fonts/3856NeueMachina.woff2);
+h1,h2{
+    font-family: "Roboto Slab", serif;
+    
 }
+
+p{
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+}
+
