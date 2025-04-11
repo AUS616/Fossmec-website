@@ -2,7 +2,7 @@
 
 # Fossmec-wesbite
 
-This repo contains the website for the executive position selection process at FOSS MEC, built with Tailwind CSS and GSAP for animations.
+This repo contains the **[Website](https://laufeydev.github.io/Fossmec-website/):** for the executive position selection process at FOSS MEC, built with Tailwind CSS and GSAP for animations.
 
 # Technologies Used
 
